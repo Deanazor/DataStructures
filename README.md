@@ -1,1 +1,1 @@
-<p>Linked List Data Structure using Java Programming Language</p>
+<p>Data Structures using Java Programming Language</p>
